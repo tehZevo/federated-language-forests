@@ -52,6 +52,7 @@ For instance, one tree can pull sequences via `generate` and use this output for
 * Prompt nodes could call `begin` on another node and `update` it with a prompt
 * Other processing features such as chatbot message truncation and prefixing
 
-# TODO
+## TODO
 * Make installable Python package
 * Wrap an existing LLM as an FLF tree
+* Markov chain example
