@@ -56,3 +56,4 @@ For instance, one tree can pull sequences via `generate` and use this output for
 * Make installable Python package
 * Wrap an existing LLM as an FLF tree
 * Markov chain example
+* File/download/yt-dlp node
