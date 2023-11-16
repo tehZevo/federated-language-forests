@@ -57,3 +57,5 @@ For instance, one tree can pull sequences via `generate` and use this output for
 * Wrap an existing LLM as an FLF tree
 * Markov chain example
 * File/download/yt-dlp node
+* Summarize node (use `begin`/`update` to feed text to be summarized)
+* Chatbot node (handles prompting/prefixing)
